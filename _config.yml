@@ -1,10 +1,10 @@
 # Site settings
-title: Jiajun'Blog
+title: Jiajun Blog
 SEOTitle: 张佳骏的博客 | JZ Blog
 header-img: img/post-bg-desk.jpg
 email: jiajun12345@gmail.come
 description: "I’ll make my way to the mountain."
-keyword: " iOS, Apple, iPhone"
+keyword: " iOS, Apple"
 url: "http://1jiajunzhang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/1jiajunzhang/1jiajunzhang.github.io.git" # you code repository
